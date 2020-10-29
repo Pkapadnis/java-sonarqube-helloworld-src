@@ -6,7 +6,7 @@ Prerequisites
 * [SonarQube Scanner](http://docs.sonarqube.org/display/SCAN/Analyzing+with+SonarQube+Scanner) 2.6.1+
 
 Usage
-=====
+=======
 * Analyze the project with SonarQube using the SonarQube Scanner:
 
         sonar-scanner
